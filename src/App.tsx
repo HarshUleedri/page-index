@@ -94,7 +94,7 @@ function App() {
         height="1024"
         viewBox="0 0 1440 1024"
         fill="none"
-        className="fixed top-0 left-0 -z-0"
+        className="fixed top-0 left-0 z-0"
       >
         <path d="M90.5 -507L90.5 589" stroke="#A9A9A9" />
         <path d="M180.5 -15L180.5 974" stroke="#A9A9A9" />
